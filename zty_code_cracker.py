@@ -5,7 +5,13 @@ import random
 import time
 
 
-# FINAL-VER
+# 注意事项：
+# 请更改device_id为您的设备号（大写，11位）
+# 据有效情报，动态码为4位
+# 但也不排除6位的可能性，因为ZTY代码里离线验证模式下确实写的是6位
+# 这时，请将代码里所有的try_code:04改为try_code:06
+# 在输出 CODE **** RETURNED 200后，请在一分钟内输入动态码
+# 祝你好运！
 
 def get_zty_sign_url(base_url,method,payload):
     timestamp = str(int(time.time() * 1000))
@@ -43,10 +49,12 @@ def patch_brush_code(code, device_id):
 
 if __name__=="__main__":
     
-    device_id = "R52TA0K08HJ"
+    device_id = "Your uppercase device id here."
     
     try_count = 0
-    
+
+    print("Using device",device_id,"to crack code.")
+
     start_time = time.strftime("%H:%M:%S", time.localtime())
     while True:
         try_code = random.randint(0,9999)

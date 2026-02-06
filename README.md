@@ -3,7 +3,7 @@
 
 
 ## Introduction
-Ж 是由破碎数据研究所（BDRG）发起的针对XH平板及其附属应用、XH服务器的开源研究项目。
+**Ж** 是由破碎数据研究所（BDRG）发起的针对XH平板及其附属应用、XH服务器的开源研究项目。
 
 ## Todo
 目前项目主要研究方向有：
@@ -13,6 +13,10 @@
 
 ## Join Us
 为防止“不可抗力”对项目造成的影响，若您想加入该项目，请向@Redstix发送申请，说明学校及设备号。我们将保证您的隐私安全。申请会在7个工作日内处理。申请通过后，您将获得额外的REPO权限。
+
+## Anticompile
+
+我们拥有最新的ZTY、ZTP反编译代码，在BushHuang的[ZTY](https://github.com/BushHuang/ZTY)和[ZTP](https://github.com/BushHuang/ZTP)仓库中，欢迎查阅修改。
 
 还请多多Star、PR、Issue！
 ## Members

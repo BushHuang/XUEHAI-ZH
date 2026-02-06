@@ -26,7 +26,7 @@
 - @TJW：负责拍上述三人的可爱照片及玩florr.io
 
 ## Documents
-我们已将部分研究成果放在`/Documents`目录下，请参阅。最新成果会在Issue中讨论。
+我们已将部分研究成果放在WIKI中和`/Documents`目录下，请参阅。最新成果会在Issue中讨论。
 
 ## Contribution
 我们向在研究路上从未放弃的前辈们致敬，他们为我们带来了宝贵的资料与经验。

@@ -27,7 +27,6 @@
 > 在XH研究这方面，你再快也有比你更快的，你再慢也有比你更慢的 ——BushHuang
 - @Soloer：负责发现新特性，存储数据及玩florr.io
 > 我们XH的代码是最高效的！ ——Soloer
-- @TJW：负责拍上述三人的可爱照片及玩florr.io
 
 ## Documents
 我们已将部分研究成果放在WIKI中和`/Documents`目录下，请参阅。最新成果会在Issue中讨论。
